@@ -1,0 +1,10 @@
+commonStructures
+entities
+entities.states
+logging
+main
+sharedRegions
+sharedRegions.bar
+sharedRegions.interfaces
+sharedRegions.kitchen
+sharedRegions.table
